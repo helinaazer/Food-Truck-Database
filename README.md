@@ -1,2 +1,2 @@
-# Food-Truck-Database
+# Food-Truck-Inventory-Management-System
 Food Truck Inventory Management System (IMS)
